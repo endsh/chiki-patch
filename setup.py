@@ -42,7 +42,7 @@ setup(
     zip_safe=False,
     platforms='any',
     install_requires=[
-        'Flask==0.10.1',
+        'Flask==1.0',
         'Flask-Login==0.2.11',
     ],
 )
